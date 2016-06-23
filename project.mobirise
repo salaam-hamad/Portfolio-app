@@ -1,0 +1,736 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.11.1",
+    "versionPublish": "2.11.1",
+    "name": "salaamhamad",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "publishType": "local",
+    "publishPath": "file:///Users/salaamhamad/Desktop/Portfolio%20app",
+    "favicon": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "25px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-22-at-6-1638x924-60.png",
+            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g-628x616-12.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "'Good design is obvious.. Great design is transparent'<br><span style=\"font-weight: normal;\">JOE SPARANO</span>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/night-owl-763x1087-57-763x1087-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-owl-763x1087-57.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/charflower-1625x1788-96-1625x1788-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/charflower-1625x1788-96.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/flower-4961x3508-27-2000x1414-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flower-4961x3508-27.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/city-scape-ink-watercolor-1654x1170-83-1654x1170-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/city-scape-ink-watercolor-1654x1170-83.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/womanshadow-6774x3259-67-2000x962-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/womanshadow-6774x3259-67.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/work1-5-3505x3510-95-2000x2003-1.png",
+                "image": "@PROJECT_PATH@/assets/images/work1-5-3505x3510-95.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/work3-6-3925x4138-82-2000x2109-91.png",
+                "image": "@PROJECT_PATH@/assets/images/work3-6-3925x4138-82.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/work8-2-2077x2086-24-2000x2009-85.png",
+                "image": "@PROJECT_PATH@/assets/images/work8-2-2077x2086-24.png",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#efefef",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-14",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-9",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#a0c7cc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "FASHION ILLUSTRATION",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/1-450x800-90-450x800-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-450x800-90.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/2-900x1600-77-900x1600-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-900x1600-77.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/3-900x1600-88-900x1600-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-900x1600-88.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/4-900x1600-64-900x1600-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-900x1600-64.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/5-900x1600-69-900x1600-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-900x1600-69.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/6-900x1600-51-900x1600-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-900x1600-51.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/8-900x1600-51-900x1600-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-900x1600-51.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/9-900x1600-90-900x1600-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-900x1600-90.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-6",
+          "articleLayout": true
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#becbcc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "MOBIRISE WEBSITE BUILDER",
+          "text": "Visit my ..<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"http://salaamhamad.wix.com/portfolio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;Website &nbsp; &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn Profile</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Facebook Page</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#363636"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#efefef"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11",
+          "_params": {
+            "color": "#363636",
+            "hamburgerColor": "#efefef",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/project-drawing-1-copy-1129x807-74.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Salaam Hamad",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Portfolio</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">WORK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#363636"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#efefef"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11",
+          "_params": {
+            "color": "#363636",
+            "hamburgerColor": "#efefef",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/project-drawing-1-copy-1129x807-74.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Salaam Hamad",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Portfolio</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">WORK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#4c6972",
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-22-at-7-1644x918-61.png",
+            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vc-628x616-76.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "'Design is so simple, that's why it's so complicated'<br><span style=\"font-weight: normal;\">PAUL RAND</span>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#4c6972"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-size": "18px",
+              "color": "#4c6972"
+            },
+            ".mbr-article H2": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "25px"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-9",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/free-wallpaper-20-1280x758-23.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#ffffff",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Qualification",
+          "meta": "",
+          "text": "<p>Diploma of Digital Media Technologies- </p><p>Evocca College</p><p><br></p><p><b>SKILLS</b></p><p>Adobe Photoshop</p><p>Adobe Illustrator</p><p>Adobe Dreamwaver</p><p>Adobe InDesign</p><p>Adobe After Effects</p><p>Cinema 4</p><p>HTML, HTML5</p><p>CSS</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"cv.html\" data-toolbar=\"-mbrBtnMove\">View Resume</a>"
+        }
+      ]
+    },
+    "cv.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "image1",
+          "_anchor": "image1-12",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/salaam-hamad-cv-1239x1754-43.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-13",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/salaam-hamad-cv1-1239x1754-72.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#363636"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#efefef"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11",
+          "_params": {
+            "color": "#363636",
+            "hamburgerColor": "#efefef",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/project-drawing-1-copy-1129x807-74.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Salaam Hamad",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Portfolio</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">WORK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-13",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-22-at-10-1640x928-18.png",
+            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/nb-628x616-56.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "'Design is not just what it looks like.. Design in how it works'<br><span style=\"font-weight: normal;\">STEVE JOBS</span>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-17",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "Contact Information",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobile: 0452357970</p><p>E-mail: salaam.hamad@hotmail.com</p><p>Postal address: 32 Chesham Place, Chipping Norton, NSW 2170</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"http://salaamhamad.wix.com/portfolio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;WEBSITE &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn Profile</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Facebook Page</a>"
+        },
+        {
+          "text": "The Empire State Building was designed by William F. Lamb from the architectural firm Shreve, Lamb and Harmon.",
+          "_name": "map2",
+          "_anchor": "map2-16",
+          "_params": {
+            "address": "32 Chesham pl, Chipping Norton, NSW",
+            "info": ""
+          },
+          "coord": [
+            -33.9108673,
+            150.9562376
+          ]
+        }
+      ]
+    }
+  }
+}
